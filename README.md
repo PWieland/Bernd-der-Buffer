@@ -19,6 +19,8 @@ Books:
 
 OpAmp Applications Handbook by Walt Jung (Analog Devices)
 
+Design with Operational Amplifiers and Analog Integrated Circuits by Sergio Franco
+
 Authors:
 
 Sergio Franco
