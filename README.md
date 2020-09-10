@@ -16,10 +16,13 @@ TI - SBOA357 - Designing High-Precision, High Output Current Circuits for ATE Ap
 AD/LT - AN21 - Composite Amplifiers
 
 Books:
+
 OpAmp Applications Handbook by Walt Jung (Analog Devices)
 
 Authors:
+
 Sergio Franco
+
 Walt Jung
 
 # Different ways to buffer
