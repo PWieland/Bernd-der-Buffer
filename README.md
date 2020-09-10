@@ -8,8 +8,11 @@ Sometimes we have an OpAmp that perfectly fits our needs, but we need it to driv
 App Notes:
 
 TI/BB - SBOA015 - Feedback plots define OpAmp AC Performance 
+
 TI/BB - SBOA002 - Classical OpAmp or Current Feedback OpAmp? - This composite OpAmp gives you the best of both worlds
+
 TI - SBOA357 - Designing High-Precision, High Output Current Circuits for ATE Applications Using a Composite Amplifier Loop
+
 AD/LT - AN21 - Composite Amplifiers
 
 Books:
